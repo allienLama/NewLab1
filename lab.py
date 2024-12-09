@@ -67,3 +67,6 @@ with open('combined_security_data.json', 'w') as f:
     json.dump(combined_data, f, indent=4)
 
 print("Proses başa çatdı.")
+
+
+#Vətənli Yusif
