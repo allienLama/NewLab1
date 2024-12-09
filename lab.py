@@ -51,7 +51,7 @@ with open('log_analysis.txt', 'w') as file:
         file.write(f"IP: {ip}, Failed Attempts: {count}\n")
 
 
-threat_ips = ['192.168.1.11', '10.0.0.15']  
+threat_ips = ['192.168.1.11']  
 
 
 with open('threat_ips.json', 'w') as f:
